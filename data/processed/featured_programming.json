@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Domain-driven Design: Tackling Complexity in the Heart of Software",
+    "asin": "0321125215",
+    "url": "http://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321125215",
+    "author": "Eric Evans",
+    "isbn": "9780321125217"
+  },
+  {
+    "title": "The Internet is Not the Answer",
+    "asin": "1782393439",
+    "url": "http://www.amazon.co.uk/Internet-Not-Answer-Andrew-Keen/dp/1782393439%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1782393439",
+    "author": "Andrew Keen",
+    "isbn": "9781782393436"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "asin": "020161622X",
+    "url": "http://www.amazon.co.uk/Pragmatic-Programmer-Andrew-Hunt/dp/020161622X%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D020161622X",
+    "author": [
+      "Andrew Hunt",
+      "David Thomas"
+    ],
+    "isbn": "9780201616224"
+  },
+  {
+    "title": "Peopleware: Productive Projects and Teams (3rd Edition)",
+    "asin": "0321934113",
+    "url": "http://www.amazon.co.uk/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321934113",
+    "author": [
+      "Tom DeMarco",
+      "Tim Lister"
+    ],
+    "isbn": "9780321934116"
+  },
+  {
+    "title": "Patterns of Enterprise Application Architecture (The Addison-Wesley Signature Series)",
+    "asin": "0321127420",
+    "url": "http://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321127420",
+    "author": "Martin Fowler",
+    "isbn": "9780321127426"
+  },
+  {
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)",
+    "asin": "0132350882",
+    "url": "http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0132350882",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884"
+  },
+  {
+    "title": "Beautiful Code: Leading Programmers Explain How They Think (Theory in Practice (O'Reilly))",
+    "asin": "0596510047",
+    "url": "http://www.amazon.co.uk/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0596510047",
+    "isbn": "9780596510046"
+  },
+  {
+    "title": "Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to ... or Ill-Luck, Work with Them in Some Capacity",
+    "asin": "1590593898",
+    "url": "http://www.amazon.co.uk/Joel-Software-Occasionally-Developers-Designers/dp/1590593898%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1590593898",
+    "author": "Avram Joel Spolsky",
+    "isbn": "9781590593899"
+  },
+  {
+    "title": "The Mythical Man-month: Essays on Software Engineering",
+    "asin": "0201835959",
+    "url": "http://www.amazon.co.uk/Mythical-Man-month-Essays-Software-Engineering/dp/0201835959%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201835959",
+    "author": "Frederick P. Brooks Jr.",
+    "isbn": "9780201835953"
+  },
+  {
+    "title": "Software Engineering",
+    "asin": "1292096136",
+    "url": "http://www.amazon.co.uk/Software-Engineering-Ian-Sommerville/dp/1292096136%3FSubscriptionId%3DAKIAIEAGKZ56ICR56CMQ%26tag%3Dwell044-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1292096136",
+    "author": "Ian Sommerville",
+    "isbn": "9781292096131"
+  }
+]
