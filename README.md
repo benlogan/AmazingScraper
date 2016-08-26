@@ -1,4 +1,4 @@
-# AmazingScraper
+# The Amazing Scraper
 
 Synopsis Scraper for WellRead
 
